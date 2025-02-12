@@ -1,0 +1,6 @@
+user_id,order_id,product_id,quantity,prices,state,Age,income,Region,profile
+1,101,1001,1,10.99,California,25,48000,West,Young low-income
+2,102,1002,2,14.99,Texas,34,52000,South,Older high-income
+3,103,1003,3,7.99,New York,28,40000,Northeast,Young low-income
+4,104,1004,4,11.99,Florida,45,62000,South,Older high-income
+5,105,1005,5,5.99,Illinois,23,38000,Midwest,Young low-income
