@@ -54,22 +54,12 @@ This project analyzes **Instacart’s transactional data** to uncover customer p
 
 ---
 
-## 📊 **Interactive Visualizations**  
-Explore the Tableau dashboards for dynamic insights:  
-
-### 1. **Top 10 Most Purchased Products**  
-[![Top Products](https://img.shields.io/badge/View_Chart-E97627)](YOUR_LINK_HERE)  
-
-### 2. **Order Trends Over Time**  
-[![Order Trends](https://img.shields.io/badge/View_Chart-E97627)](YOUR_LINK_HERE)  
-
-### 3. **Customer Segmentation Clusters**  
-[![Segmentation](https://img.shields.io/badge/View_Chart-E97627)](YOUR_LINK_HERE)  
-
-### 4. **Market Basket Analysis Heatmap**  
-[![Heatmap](https://img.shields.io/badge/View_Chart-E97627)](YOUR_LINK_HERE)  
-
-*(Replace links with your Tableau/Plotly URLs)*  
+## 📊 **Visualizations**  
+Static and interactive visualizations (charts, heatmaps, and dashboards) are included in the `/Visualizations` folder. Key outputs:  
+- **Top 10 Most Purchased Products** (Bar chart).  
+- **Order Trends Over Time** (Line graph).  
+- **Customer Segmentation Clusters** (Pie chart).  
+- **Market Basket Analysis Heatmap** (Correlation matrix).  
 
 ---
 
